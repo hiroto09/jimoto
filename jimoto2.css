@@ -1,0 +1,204 @@
+body{
+    font-family:YuMincho;
+    margin: 0px;
+}
+
+.a{
+    background-image: url(803157FF-8294-440F-953D-FAF056DE726B.JPG);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;
+    background-attachment:fixed;
+    padding: 40% 0%;
+}
+
+.daimei{
+    color:#fff;
+    background: rgba(0,0,0,0.3);
+    font-size:50px;
+    width: 300px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.b{
+    background-image: url(坊さん.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;
+    background-attachment:fixed;
+    padding: 40% 0%;
+}
+.b li{
+    width:350px;
+    font-size:30px;
+    color:#fff;
+    list-style:none;
+    background-size:cover;
+    background: rgba(0,0,0,0.3);
+    margin-left:100px;
+    margin-right:10px;
+
+}
+
+.c{
+    background-image:url(sakura.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    padding:50% 0%;
+}
+.haru h1{
+    font-size:50px;
+    padding-left: 5%;
+    color:#000;
+    background-color: #fff;
+    background-size:cover;
+    background-position:center center;
+    padding:3% 0%;
+    margin-left:700px;
+}
+.d{
+    background-image:url(蓮.jpeg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    padding:50% 0%;
+}
+.e{
+    background-image:url(青葉まつり.jpeg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    padding:50% 0%;
+}
+.e li{
+    font-size:30px;
+    color:#fff;
+    list-style:none;
+    width:400px;
+    background:rgba(0,0,0,0.3)
+    
+}
+.natu h1{
+    font-size:50px;
+    padding-left: 5%;
+    color:#000;
+    background-color: #fff;
+    background-size:cover;
+    background-position:center center;
+    padding:3% 0%;
+    margin-left:700px;
+}
+
+.f{
+    background-image:url(IMG_7284.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    padding:50% 0%;
+}
+
+.g{
+    background-image:url(M_00968_001.jpeg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    padding:50% 0%;
+}
+.g li{
+    font-size:40px;
+    color:#fff;
+    list-style:none;
+    width:400px;
+    background:rgba(0,0,0,0.3);
+}
+.aki h1{
+    font-size:50px;
+    padding-left: 5%;
+    color:#000;
+    background-color: #fff;
+    background-size:cover;
+    background-position:center center;
+    padding:3% 0%;
+    margin-left:700px;
+}
+.h{
+    background-image:url(今高野山-その1-scaled.webp);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    padding:50% 0%;
+}
+.i{
+    background-image:url(803157FF-8294-440F-953D-FAF056DE726B.JPG);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    padding:50% 0%;
+    }
+  .i h1{
+    width:350px;
+    font-size:30px;
+    color:#fff;
+    list-style:none;
+    background-size:cover;
+    background: rgba(0,0,0,0.3);
+    margin-left:100px;
+    margin-right:10px;
+  }  
+  .huyu h1{
+    font-size:50px;
+    padding-left: 5%;
+    color:#000;
+    background-color: #fff;
+    background-size:cover;
+    background-position:center center;
+    padding:3% 0%;
+    margin-left:700px;
+  }
+  .j{
+    background-image:url(E99BAAE381AEE5A4A7E5A1941.bmp);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    padding:50% 0%;
+  }
+  .k{
+    background-image:url(0010864.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    padding:50% 0%;
+  }
+  .k h1{
+    width:350px;
+    font-size:30px;
+    color:#fff;
+    list-style:none;
+    background-size:cover;
+    background: rgba(0,0,0,0.3);
+    margin-left:100px;
+    margin-right:10px;
+  }
+  .end{
+    width:10000px;
+ 
+    padding-left: 5%;
+    background-color: #000;
+    background-size:cover;
+    background-position:center center;
+    padding:3% 0%;
+}
+ .end h1{
+    color:#fff;
+ }
